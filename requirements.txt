@@ -1,0 +1,2 @@
+django==2.2
+djangorestFramework==3.9.2
